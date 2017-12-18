@@ -1,0 +1,16 @@
+2hi
+hi! 
+hi~ 
+ 
+2hello
+hello!
+hello~
+ 
+2how old are you?
+0
+0
+ 
+2nice to meet you
+nice to meet you too!
+long time no see~
+ 
